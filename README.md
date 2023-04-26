@@ -1,5 +1,6 @@
 # EGL315
 ## StoryLine
+![Alt text](images/Story.jpg)
 
 
 ## Control Systems 
