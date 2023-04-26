@@ -10,13 +10,13 @@ graph LR
 A[Laptop] --> B[Rasberry Pi] --> C[Pi Camera] 
 
 ```
-## Audio System Diagram
+## Audio Diagram
 ```mermaid
 graph LR
 A[Laptop with Reaper] --> B[Speaker]
 ```
-## Floor Plan
-![Alt text](images/floorplan.png)
+## Video Diagram
+
 
 ## Lighting Diagram
 ```mermaid
@@ -26,3 +26,5 @@ A[grandMA3] --> B[LED Lighting 1]
 A --> C[LED Lighting 2]
 A --> D[LED Lighting 3]
 ```
+## Floor Plan
+![Alt text](images/floorplan.png)
