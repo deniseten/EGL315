@@ -7,8 +7,10 @@
 ```mermaid
 graph LR
 
-A[Laptop] --> B[Rasberry Pi] --> C[Pi Camera] 
-
+A[Laptop] --> B[Rasberry Pi] --> C[Ultrasonic Sensor HC-SR04] 
+B --> D[Ultrasonic Sensor HC-SR04]
+B --> E[Ultrasonic Sensor HC-SR04]
+B --> F[Ultrasonic Sensor HC-SR04]
 ```
 ## Audio Diagram
 ```mermaid
