@@ -9,8 +9,9 @@ graph LR
 
 A[Laptop] --> B[Rasberry Pi] --> C[Ultrasonic Sensor HC-SR04] 
 B --> D[Ultrasonic Sensor HC-SR04]
-B --> E[Ultrasonic Sensor HC-SR04]
+B --> E[voice recognition]
 B --> F[Ultrasonic Sensor HC-SR04]
+B --> G[Ultrasonic Sensor HC-SR04]
 ```
 ## Audio Diagram
 ```mermaid
