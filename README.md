@@ -1,6 +1,6 @@
 # EGL315
 ## StoryLine
-![Alt text](images/Story.jpg)
+Still in the Making.
 
 
 ## Control Systems 
