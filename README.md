@@ -17,6 +17,7 @@ A[Laptop with Reaper] --> B[Speaker]
 ## Video Diagram
 ```mermaid
 graph LR
+A[Laptop] --> B[Server] --> C[Pandora Box] --> D[Projector]
 ```
 
 ## Lighting Diagram
