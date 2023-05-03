@@ -32,3 +32,5 @@ A --> C[LED Lighting 2]
 A --> D[LED Lighting 3]
 ```
 ## Floor Plan
+![Alt text](images/Floor%20Plan%202.jpg)
+![Alt text](images/Floor%20Plan%201.jpg)
