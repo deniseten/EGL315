@@ -1,6 +1,5 @@
 # EGL315
 ## StoryLine
-![Alt text](images/Story.jpg)
 
 
 ## Control Systems 
@@ -16,7 +15,9 @@ graph LR
 A[Laptop with Reaper] --> B[Speaker]
 ```
 ## Video Diagram
-
+```mermaid
+graph LR
+```
 
 ## Lighting Diagram
 ```mermaid
@@ -27,4 +28,3 @@ A --> C[LED Lighting 2]
 A --> D[LED Lighting 3]
 ```
 ## Floor Plan
-![Alt text](images/floorplan.png)
