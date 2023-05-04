@@ -17,7 +17,7 @@ B --> G[Ultrasonic Sensor HC-SR04]
 ## Audio Diagram
 ```mermaid
 graph LR
-A[Laptop with Reaper] --> B[Speaker]
+A[Laptop with Reaper] -->|3.5mm to Dual Ts Cable| B[Speaker]
 ```
 
 ## Video Diagram
