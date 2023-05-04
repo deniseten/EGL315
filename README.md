@@ -34,5 +34,9 @@ A[grandMA3] --> B[LED Lighting 1]
 A --> C[LED Lighting 2]
 A --> D[LED Lighting 3]
 ```
+# Equipment List
+![Alt text](images/equipment%20list.png)
 
 # Floor Plan
+![Alt text](images/floor%20plan%201.png)
+![Alt text](images/floor%20plan%202.png)
