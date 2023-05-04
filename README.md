@@ -1,8 +1,9 @@
-# EGL315
-## StoryLine
+# EGL315 TEAM D
+# Storyboard
 
 
-## Control Systems 
+# System Diagrams
+ ## Control Diagram
 ```mermaid
 graph LR
 
@@ -12,11 +13,13 @@ B --> E[voice recognition]
 B --> F[Ultrasonic Sensor HC-SR04]
 B --> G[Ultrasonic Sensor HC-SR04]
 ```
+
 ## Audio Diagram
 ```mermaid
 graph LR
 A[Laptop with Reaper] --> B[Speaker]
 ```
+
 ## Video Diagram
 ```mermaid
 graph LR
@@ -31,4 +34,5 @@ A[grandMA3] --> B[LED Lighting 1]
 A --> C[LED Lighting 2]
 A --> D[LED Lighting 3]
 ```
-## Floor Plan
+
+# Floor Plan
