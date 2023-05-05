@@ -7,11 +7,10 @@
 ```mermaid
 graph LR
 
-A[Laptop] --> B[Rasberry Pi] --> C[Ultrasonic Sensor HC-SR04] 
-B --> D[Ultrasonic Sensor HC-SR04]
-B --> E[voice recognition]
-B --> F[Ultrasonic Sensor HC-SR04]
-B --> G[Ultrasonic Sensor HC-SR04]
+B[Arduino] --> C[Infaraed LED] --> D[Infaraed receivers]
+B --> F[Infaraed LED] --> G[Infaraed receivers]
+B --> E[Infaraed LED] --> H[Infaraed receivers]
+B --> I[Infaraed LED] --> J[Infaraed receivers]
 ```
 
 ## Audio Diagram
