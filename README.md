@@ -34,7 +34,7 @@ A --> C[LED Lighting 2]
 A --> D[LED Lighting 3]
 ```
 # Equipment List
-![Alt text](images/equipment%20list.png)
+![Alt text](images/BOM.jpg)
 
 # Floor Plan
 ![Alt text](images/floor%20plan%201.png)
