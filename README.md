@@ -29,7 +29,7 @@ A[Laptop] --> B[Server] --> C[Pandora Box] --> D[Projector]
 ```mermaid
 graph LR
 
-A[titan avolites software] --> B[Astera Light 1]
+A[Titan Avolites Software] --> B[Astera Light 1]
 A --> C[Astera Light 2]
 A --> D[Astera Light 3]
 A --> E[Astera Light 4]
