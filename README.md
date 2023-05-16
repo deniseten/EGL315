@@ -22,9 +22,11 @@ A[Laptop] --> B[Server] --> C[Pandora Box] --> D[Projector]
 ```mermaid
 graph LR
 
-A[grandMA3] --> B[LED Lighting 1]
-A --> C[LED Lighting 2]
-A --> D[LED Lighting 3]
+A[Titan Avolites Software] --> B[Wireless DMX]
+B --> C[Astera Light 1]
+B --> D[Astera Light 2]
+B --> E[Astera Light 3]
+B --> F[Astera Light 4]
 ```
 # Equipment List
 ![Alt text](images/BOM.jpg)
