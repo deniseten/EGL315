@@ -32,5 +32,5 @@ B --> F[Astera Light 4]
 ![Alt text](images/BOM.jpg)
 
 # Floor Plan
-![Alt text](images/floor%20plan%201.png)
-![Alt text](images/floor%20plan%202.png)
+![Alt text](images/Floor%20Plan%201.jpg)
+![Alt text](images/Floor%20Plan%202.jpg)
