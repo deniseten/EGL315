@@ -4,14 +4,7 @@
 
 # System Diagrams
  ## Control Diagram
-```mermaid
-graph LR
-
-B[Arduino] --> C[Infaraed LED] --> D[Infaraed receivers]
-B --> F[Infaraed LED] --> G[Infaraed receivers]
-B --> E[Infaraed LED] --> H[Infaraed receivers]
-B --> I[Infaraed LED] --> J[Infaraed receivers]
-```
+![Alt text](images/Control%20System.jpg)
 
 ## Audio Diagram
 ```mermaid
