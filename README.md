@@ -1,24 +1,13 @@
 # EGL315 TEAM D
 # Storyboard
-
+![Alt text](images/storyboard.jpeg)
 
 # System Diagrams
  ## Control Diagram
-```mermaid
-graph LR
-
-B[Arduino] --> C[Infaraed LED] --> D[Infaraed receivers]
-B --> F[Infaraed LED] --> G[Infaraed receivers]
-B --> E[Infaraed LED] --> H[Infaraed receivers]
-B --> I[Infaraed LED] --> J[Infaraed receivers]
-```
+![Alt text](images/Control%20System.jpg)
 
 ## Audio Diagram
-```mermaid
-graph LR
-A[Laptop with Reaper] -->|3.5mm to Dual Ts Cable| B[Speaker]
-```
-
+![Alt text](images/Audio%20Diagram.png)
 ## Video Diagram
 ```mermaid
 graph LR
@@ -39,5 +28,5 @@ B --> F[Astera Light 4]
 ![Alt text](images/BOM.jpg)
 
 # Floor Plan
-![Alt text](images/floor%20plan%201.png)
-![Alt text](images/floor%20plan%202.png)
+![Alt text](images/Floor%20Plan%201.jpg)
+![Alt text](images/Floor%20Plan%202.jpg)
