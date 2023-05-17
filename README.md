@@ -1,6 +1,6 @@
 # EGL315 TEAM D
 # Storyboard
-
+![Alt text](images/storyboard.jpeg)
 
 # System Diagrams
  ## Control Diagram
