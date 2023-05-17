@@ -7,11 +7,7 @@
 ![Alt text](images/Control%20System.jpg)
 
 ## Audio Diagram
-```mermaid
-graph LR
-A[Laptop with Reaper] -->|3.5mm to Dual Ts Cable| B[Speaker]
-```
-
+![Alt text](images/Audio%20Diagram.png)
 ## Video Diagram
 ```mermaid
 graph LR
