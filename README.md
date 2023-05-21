@@ -15,15 +15,9 @@ A[Laptop] --> B[Server] --> C[Pandora Box] --> D[Projector]
 ```
 
 ## Lighting Diagram
-```mermaid
-graph LR
+![Alt text](images/lighting%20diagram.png)
 
-A[Pandora Box] --> B[Wireless DMX]
-B --> C[Astera Light 1]
-B --> D[Astera Light 2]
-B --> E[Astera Light 3]
-B --> F[Astera Light 4]
-```
+
 # Equipment List
 ![Alt text](images/BOM.jpg)
 
