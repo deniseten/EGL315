@@ -4,15 +4,13 @@
 
 # System Diagrams
  ## Control Diagram
-![Alt text](images/Control%20System.jpg)
+![Alt text](images/control%20diagram.jpg)
 
 ## Audio Diagram
 ![Alt text](images/Audio%20Diagram.png)
+
 ## Video Diagram
-```mermaid
-graph LR
-A[Laptop] --> B[Server] --> C[Pandora Box] --> D[Projector]
-```
+![Alt text](images/video%20diagram.png)
 
 ## Lighting Diagram
 ![Alt text](images/lighting%20diagram.png)
