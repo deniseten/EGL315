@@ -27,7 +27,6 @@
 
 ## 5 IR Sensor on 1 Raspberry Pi
 ![Alt text](images/Con.jpg)
-This is the connection from raspberry Pi to 5 IR Sensor.
 
 ## Screen Set-Up
 ![Alt text](images/Screen.jpg)
