@@ -22,3 +22,16 @@
 # Floor Plan
 ![Alt text](images/Floor%20Plan%201.jpg)
 ![Alt text](images/Floor%20Plan%202.jpg)
+
+# LayOut And Setup
+
+## 5 IR Sensor on 1 Raspberry Pi
+![Alt text](images/Con.jpg)
+This is the connection from raspberry Pi to 5 IR Sensor.
+
+## Screen Set-Up
+![Alt text](images/Screen.jpg)
+
+## IR Sensor Placement
+![Alt text](images/IR%20Sensor.jpg)
+Each IR Sensor respond to only 1 button . Power , 1 , 2,4 & 5.  
