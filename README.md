@@ -25,8 +25,9 @@
 
 # LayOut And Setup
 
-## 5 IR Sensor on 1 Raspberry Pi
-![Alt text](images/Con.jpg)
+## Connection & Remote
+![Alt text](images/COn.jpg)
+![Alt text](images/Remote.jpg)
 
 ## Screen Set-Up
 ![Alt text](images/Screen.jpg)
