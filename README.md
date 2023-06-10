@@ -23,7 +23,7 @@
 ![Alt text](images/Floor%20Plan%201.jpg)
 ![Alt text](images/Floor%20Plan%202.jpg)
 
-# LayOut And Setup
+# Lay0ut And Setup
 
 ## 5 IR Sensor on 1 Raspberry Pi
 ![Alt text](images/Con.jpg)
