@@ -17,7 +17,7 @@
 
 
 # Equipment List
-![Alt text](images/BOM.jpg)
+![Alt text](images/BOM.png)
 
 # Floor Plan
 ![Alt text](images/Floor%20Plan%201.jpg)
