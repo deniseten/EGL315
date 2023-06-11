@@ -17,12 +17,21 @@
 
 
 # Equipment List
-![Alt text](images/BOM.jpg)
+![Alt text](images/BOM.png)
 
 # Floor Plan
 ![Alt text](images/Floor%20Plan%201.jpg)
 ![Alt text](images/Floor%20Plan%202.jpg)
 
-# Audio Setup
-![Alt text](images/3.5mm%20Cable%20made%20finish%20for%20315.jpg)
- Finish soldering of 3.5mm for audio, which will be connected to the laptop for audio to come out from the passive speakers.
+# Lay0ut And Setup
+
+## 5 IR Sensor on 1 Raspberry Pi
+![Alt text](images/Con.jpg)
+
+## Screen Set-Up
+![Alt text](images/Screen.jpg)
+
+## IR Sensor Placement
+![Alt text](images/IR%20Sensor.jpg)
+Each IR Sensor respond to only 1 button . Power , 1 , 2,4 & 5.  
+
