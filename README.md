@@ -4,7 +4,7 @@
 
 # System Diagrams
  ## Control Diagram
-![Alt text](images/control%20diagram.jpg)
+![Alt text](images/Control%20System.jpg)
 
 ## Audio Diagram
 ![Alt text](images/Audio%20Diagram.png)
