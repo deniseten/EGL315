@@ -49,3 +49,48 @@ Amplifier setup at the back of the screen and connected to the 2 passive speaker
 
 ## IR System Code
 
+```
+import RPi.GPIO as GPIO
+import time
+# Set up GPIO mode and pin
+GPIO.setmode(GPIO.BCM)
+IR_PIN1 = 17  # Power button
+IR_PIN2 = 27  # Number 1 button
+IR_PIN3 = 22  # Number 2 button
+IR_PIN4 = 25  # Number 4 button
+IR_PIN5 = 24  # Number 5 button
+
+GPIO.setup(IR_PIN1, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
+GPIO.setup(IR_PIN2, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
+GPIO.setup(IR_PIN3, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
+GPIO.setup(IR_PIN4, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
+GPIO.setup(IR_PIN5, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
+
+```
+Broadcom SOC channel numbering is the GPIO mode that is set by this line.These lines assign GPIO pin numbers to each button. Check that these pin numbers correspond to the actual connectors on your Raspberry Pi. The GPIO pins are configured as inputs with pull-down resistors using these lines. This guarantees that when the buttons are not pushed, the input is pulled low (GND).
+
+```
+# Button names
+BUTTON_NAMES = {    
+	IR_PIN1: "Power button",
+	IR_PIN2: "Number 1 button",    
+	IR_PIN3: "Number 2 button",
+	IR_PIN4: "Number 4 button",   
+	IR_PIN5: "Number 5 button",
+}
+try:    # Main loop to continuously read IR signals
+    while True:        
+for pin, button_name in BUTTON_NAMES.items():
+if GPIO.input(pin) == GPIO.LOW:                
+print(f"Signal received from {button_name}")
+        # Delay between readings
+        time.sleep(0.1)
+# Gracefully handle a KeyboardInterrupt (Ctrl+C)
+except KeyboardInterrupt:
+    pass
+# Clean up resources
+GPIO.cleanup()
+
+```
+
+The GPIO pin numbers are associated with human-readable names for each button in this dictionary.This is the main loop, which constantly reads the button states. It loops over the dictionary of 'BUTTON_NAMES', verifying the status of each button. If a button is pressed (GPIO input is LOW), a message identifying which button was pressed is printed. To reduce excessive CPU utilization, there is also a 0.1-second wait between measurements.
