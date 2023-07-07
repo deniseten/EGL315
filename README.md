@@ -14,7 +14,7 @@ Welcome to Zombie Universe! In this exciting IR game, you'll find yourself in a 
 ![Alt text](images/Audio%20Diagram.png)
 
 ## Video Diagram
-![Alt text](images/video%20diagram.png)
+![Alt text](<images/video diagram.png>)
 
 ## Lighting Diagram
 ![Alt text](images/lighting%20diagram.png)
