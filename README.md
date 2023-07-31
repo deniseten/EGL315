@@ -50,7 +50,7 @@ Amplifier setup at the back of the screen and connected to the 2 passive speaker
 ## Lighting Setup
 ![Alt text](images/lighting%20setup.jpeg)
 ![Alt text](images/osc%20to%20ma3.jpeg)
-This is the OSC code to control my tube lights from grandMA3.
+This is the OSC code to control the tube lights from grandMA3.
 
 ## IR System Code
 
