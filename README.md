@@ -4,7 +4,7 @@
 
 # System Diagrams
  ## Control Diagram
-![Alt text](images/Control%20System.jpg)
+
 
 ## Audio Diagram
 ![Alt text](images/Audio%20Diagram.png)
@@ -23,18 +23,15 @@
 ![Alt text](images/Floor%20Plan%201.jpg)
 ![Alt text](images/Floor%20Plan%202.jpg)
 
-# Lay0ut And Setup
+# LayOut And Setup
 
 ## Connection & Remote
-![Alt text](images/COn.jpg)
-![Alt text](images/Remote.jpg)
+
 
 ## Screen Set-Up
 ![Alt text](images/Screen.jpg)
 
-## IR Sensor Placement
-![Alt text](images/IR%20Sensor.jpg)
-Each IR Sensor respond to only 1 button . Power , 1 , 2,4 & 5.  
+
 
 ## Audio Setup
 ![Alt text](images/3.5mm%20Cable%20made%20finish%20for%20315.jpg)
