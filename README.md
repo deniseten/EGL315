@@ -29,7 +29,6 @@ Welcome to Zombie Universe! In this exciting IR game, you'll find yourself in a 
 
 # LayOut And Setup
 
-## Connection & Remote
 
 
 
