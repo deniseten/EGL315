@@ -8,7 +8,7 @@ Welcome to Zombie Universe! In this exciting IR game, you'll find yourself in a 
 
 # System Diagrams
  ## Control Diagram
-
+![Alt text](images/Control.png)
 
 ## Audio Diagram
 ![Alt text](images/Audio%20Diagram.png)
