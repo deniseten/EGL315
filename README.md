@@ -42,8 +42,7 @@ Welcome to Zombie Universe! In this exciting IR game, you'll find yourself in a 
 <<<<<<< Updated upstream
 =======
 ## Button Placement
->>>>>>> Stashed changes
-
+![Alt text](images/Control.jpg)
 
 ## Audio Setup
 ![Alt text](images/3.5mm%20Cable%20made%20finish%20for%20315.jpg)
@@ -59,5 +58,8 @@ Amplifier setup at the back of the screen and connected to the 2 passive speaker
 This is the OSC code to control the tube lights from grandMA3.
 
 
-=======
->>>>>>> Stashed changes
+## Control Programming
+![Alt text](images/PY.jpg)
+![Alt text](images/Programing.jpg)
+
+
