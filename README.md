@@ -41,7 +41,7 @@ Welcome to Zombie Universe! In this exciting IR game, you'll find yourself in a 
 
 <<<<<<< Updated upstream
 =======
-## IR Sensor Placement
+## Button Placement
 >>>>>>> Stashed changes
 
 
