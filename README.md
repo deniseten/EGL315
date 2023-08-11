@@ -22,11 +22,9 @@ Welcome to Zombie Universe! In this exciting IR game, you'll find yourself in a 
 
 # Equipment List
 
+# Floor Plan and Layout 
 
-# Floor Plan
-
-
-# Layout And Setup
+# Setup
 ## Projection screen Set-Up
 ![Alt text](images/Screen.jpg)
 
