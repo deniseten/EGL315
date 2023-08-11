@@ -1,8 +1,8 @@
-# EGL315 TEAM D
+# EGL315 TEAM D (ZOMBIE APOCALYPSE)
 ![Alt text](<images/grp photo.jpeg>)
 
 # Introdution to our project
-Welcome to Zombie Universe! In this exciting IR game, you'll find yourself in a post-apocalyptic world overrun by zombies. It's up to you, armed with an infrared sensor equipment, to withstand the zombie assault and discover a way out. Prepare for a thrilling, heart-pounding journey! (CHANGE INTRO!!!!!)
+Welcome to Zombieverse! (UPDATE!!!!)
 
 # Storyboard
 ![Alt text](images/storyboard.jpeg)
