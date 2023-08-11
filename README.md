@@ -27,36 +27,29 @@ Welcome to Zombie Universe! In this exciting IR game, you'll find yourself in a 
 ![Alt text](images/Floor%20Plan%201.jpg)
 ![Alt text](images/Floor%20Plan%202.jpg)
 
-# LayOut And Setup
+# Layout And Setup
 
 
 
-<<<<<<< Updated upstream
-=======
 
->>>>>>> Stashed changes
 
 ## Screen Set-Up
 ![Alt text](images/Screen.jpg)
 
-<<<<<<< Updated upstream
-=======
 ## Button Placement
 ![Alt text](images/Control.jpg)
 
 ## Audio Setup
 ![Alt text](images/3.5mm%20Cable%20made%20finish%20for%20315.jpg)
-Finish soldering of 3.5mm cable which will be connected to the amplifier.
+3.5mm cable which will be connected to the amplifier.
 
 ![Alt text](images/Amplifier%20Setup%20for%20315.jpg)
 Amplifier setup at the back of the screen and connected to the 2 passive speakers.
 
-<<<<<<< Updated upstream
 ## Lighting Setup
 ![Alt text](images/lighting%20setup.jpeg)
 ![Alt text](images/osc%20to%20ma3.jpeg)
 This is the OSC code to control the tube lights from grandMA3.
-
 
 ## Control Programming
 ![Alt text](images/PY.jpg)
