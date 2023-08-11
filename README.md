@@ -1,7 +1,8 @@
 # EGL315 TEAM D
+![Alt text](<images/grp photo.jpeg>)
 
 # Introdution to our project
-Welcome to Zombie Universe! In this exciting IR game, you'll find yourself in a post-apocalyptic world overrun by zombies. It's up to you, armed with an infrared sensor equipment, to withstand the zombie assault and discover a way out. Prepare for a thrilling, heart-pounding journey!
+Welcome to Zombie Universe! In this exciting IR game, you'll find yourself in a post-apocalyptic world overrun by zombies. It's up to you, armed with an infrared sensor equipment, to withstand the zombie assault and discover a way out. Prepare for a thrilling, heart-pounding journey! (CHANGE INTRO!!!!!)
 
 # Storyboard
 ![Alt text](images/storyboard.jpeg)
@@ -21,48 +22,37 @@ Welcome to Zombie Universe! In this exciting IR game, you'll find yourself in a 
 
 # Equipment List
 
-
-# Floor Plan
-
-
-# Layout And Setup
-
-## Buttons Control 
-
-
-## Projection screen SetUp
-![Alt text](images/Screen.jpg) 
-
 # Floor Plan and Layout 
 
-# Setup
-## Projection screen Set-Up
-![Alt text](images/Screen.jpg)
+# Projection Screen SetUp
+![Alt text](images/Screen.jpg) 
 
-## Button Placement
-![Alt text](images/Control.jpg)
+# Button Placement
+![Alt text](images/buttons.jpeg)
 
-## Audio Setup
+# Audio Setup
 ![Alt text](images/3.5mm%20Cable%20made%20finish%20for%20315.jpg)
 3.5mm cable which will be connected to the amplifier.
 
 ![Alt text](images/Amplifier%20Setup%20for%20315.jpg)
 Amplifier setup at the back of the screen and connected to the 2 passive speakers.
 
-## Final Setup
-
-## IR System Code
-## Lighting Setup
+# Lighting Setup
 ![Alt text](images/lighting%20setup.jpeg)
-![Alt text](images/osc%20to%20ma3.jpeg)
-This is the OSC code to control the tube lights from grandMA3.
 
-## Control Programming
+# Final Setup
+![Alt text](images/final1.jpeg)
+![Alt text](images/final2.jpeg)
+
+# Control Programming
 ![Alt text](images/PY.jpg)
 ![Alt text](images/Programing.jpg)
 
-# Code for each buttons
+# Lighting Codes
+![Alt text](images/osc%20to%20ma3.jpeg)
+This is the OSC code to control the tube lights from grandMA3.
 
+# Code for each buttons
 ## Rest Button
 ```
 ScriptTimer1.Stop
