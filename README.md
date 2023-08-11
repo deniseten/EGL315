@@ -19,33 +19,28 @@ Welcome to Zombie Universe! In this exciting IR game, you'll find yourself in a 
 ## Lighting Diagram
 ![Alt text](images/lighting%20diagram.png)
 
-
 # Equipment List
-![Alt text](images/BOM.png)
+
 
 # Floor Plan
-![Alt text](images/Floor%20Plan%201.jpg)
-![Alt text](images/Floor%20Plan%202.jpg)
 
-# Lay0ut And Setup
 
-## Connection & Remote
+# Layout And Setup
 
-![Alt text](images/Remote.jpg)
+## Buttons Control 
 
-## Screen Set-Up
-![Alt text](images/Screen.jpg)
 
-## IR Sensor Placement
-![Alt text](images/IR%20Sensor.jpg)
-Each IR Sensor respond to only 1 button . Power , 1 , 2,4 & 5.  
+## Projection screen SetUp
+![Alt text](images/Screen.jpg) 
 
 ## Audio Setup
 ![Alt text](images/3.5mm%20Cable%20made%20finish%20for%20315.jpg)
-Finish soldering of 3.5mm cable which will be connected to the amplifier.
+3.5mm cable which will be connected to the amplifier.
 
 ![Alt text](images/Amplifier%20Setup%20for%20315.jpg)
 Amplifier setup at the back of the screen and connected to the 2 passive speakers.
+
+## Final Setup
 
 ## IR System Code
 
