@@ -24,16 +24,10 @@ Welcome to Zombie Universe! In this exciting IR game, you'll find yourself in a 
 
 
 # Floor Plan
-![Alt text](images/Floor%20Plan%201.jpg)
-![Alt text](images/Floor%20Plan%202.jpg)
+
 
 # Layout And Setup
-
-
-
-
-
-## Screen Set-Up
+## Projection screen Set-Up
 ![Alt text](images/Screen.jpg)
 
 ## Button Placement
@@ -55,9 +49,9 @@ This is the OSC code to control the tube lights from grandMA3.
 ![Alt text](images/PY.jpg)
 ![Alt text](images/Programing.jpg)
 
-## Code for each buttons
+# Code for each buttons
 
-# Rest Button
+## Rest Button
 ```
 ScriptTimer1.Stop
 ScriptTimer1.Interval=2000
@@ -150,8 +144,8 @@ Score = 0
 timerCount = 0
 start = 0
 ```
-# Start Button
 
+## Start Button
 ```
 posFromRPi=3
 
@@ -250,7 +244,8 @@ else{
  life = life -1
 }
 ```
-# Shooting buttons
+
+## Shooting buttons
 ```
 //data come in from rasp pi
 // 1,2,3,4,5
