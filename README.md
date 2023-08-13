@@ -21,7 +21,7 @@ Welcome to Zombieverse! (UPDATE!!!!)
 ![Alt text](images/lighting%20diagram.png)
 
 # Equipment List
-(UPDATE!!!!!)
+![Alt text](images/euipment_list.png)
 
 # Floor Plan and Layout 
 (UPDATE!!!!!)
