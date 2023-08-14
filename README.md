@@ -36,10 +36,10 @@ Welcome to Zombieverse! (UPDATE!!!!)
 ![Alt text](images/3.5mm%20Cable%20made%20finish%20for%20315.jpg)
 3.5mm cable which will be connected to the amplifier.
 
-![Alt text](images/photo_2023-08-14 18.18.14.jpeg)
+![Alt text](<images/audio router.jpeg>)
 Amplifier front of the screen and connected to the 2 passive speakers.
 
-![Alt text](images/photo_2023-08-14 18.18.21.jpeg)
+![Alt text](<images/audio setup.jpeg>)
 Passive speakers on the table.
 
 # Lighting Setup
