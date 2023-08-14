@@ -5,7 +5,7 @@
 Welcome to Zombieverse! (UPDATE!!!!)
 
 # Storyboard
-![Alt text](images/storyboard.jpeg)
+(UPDATE!!!!)
 
 # System Diagrams
  ## Control Diagram
@@ -36,8 +36,10 @@ Welcome to Zombieverse! (UPDATE!!!!)
 ![Alt text](images/3.5mm%20Cable%20made%20finish%20for%20315.jpg)
 3.5mm cable which will be connected to the amplifier.
 
-![Alt text](images/Amplifier%20Setup%20for%20315.jpg)
-Amplifier setup at the back of the screen and connected to the 2 passive speakers.
+![Alt text](<images/photo_2023-08-14 18.18.14.jpeg>)
+Amplifier front of the screen and connected to the 2 passive speakers.
+![Alt text](<images/photo_2023-08-14 18.18.21.jpeg>)
+Passive speakers on the table.
 
 # Lighting Setup
 ![Alt text](images/lighting%20setup.jpeg)
