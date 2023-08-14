@@ -24,7 +24,7 @@ Welcome to Zombieverse! (UPDATE!!!!)
 ![Alt text](images/equipment_list.png)
 
 # Floor Plan and Layout 
-(UPDATE!!!!!)
+![Alt text](<images/Floor Plan 1.jpg>)
 
 # Projection Screen SetUp
 ![Alt text](images/Screen.jpg) 
